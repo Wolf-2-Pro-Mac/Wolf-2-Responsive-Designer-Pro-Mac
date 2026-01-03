@@ -4,7 +4,7 @@
  <tr>
  <td width="230" align="center" valign="middle">
  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/c0/71/9dc071e0-23ae-5493-84c9-f87960496d06/Wolf2.png/1200x630bb.png" width="200" alt="Wolf 2 Responsive Designer Pro macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/Wolf%202%20Responsive%20Designer%20Pro">
+ <a href="https://gnomik-gomik-apps.github.io/.github/Wolf%202%20Responsive%20Designer%20Pro">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open Wolf 2 Responsive Designer Pro macOS page">
  </a><br><br>
  <div align="center">
